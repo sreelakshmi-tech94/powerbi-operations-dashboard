@@ -1,0 +1,15 @@
+Dashboard Layout
+
+Top Cards:
+- Total Enquiries: 2,132
+- Total Admissions: 616
+- Conversion Rate: 28.9%
+
+Charts Included:
+- Monthly Enquiries Trend
+- Monthly Admissions Trend
+- Enquiries by Source
+- Admissions Performance Analysis
+
+Key Insight:
+The dashboard shows steady growth in enquiries and admissions throughout the year, with referral and website sources contributing significantly to conversions.
